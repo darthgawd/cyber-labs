@@ -11,26 +11,6 @@ The primary goal of this repository is to serve as:
 - A **personal knowledge base** for networking and cybersecurity concepts
 
 ---
-
-
----
-
-## 🧠 Lab Categories
-
-### 🔹 Packet Tracer Labs
-Cisco Packet Tracer–based labs focusing on:
-- VLANs & Trunking  
-- Inter-VLAN Routing  
-- Routing protocols (OSPF, RIP, static)  
-- Network segmentation  
-- Enterprise LAN design  
-
-Each lab includes:
-- A `.pkt` topology file  
-- A dedicated README with configuration details and validation steps  
-
----
-
 ### 🔹 Linux Labs (Planned)
 Hands-on labs using Linux to explore:
 - Networking fundamentals  
@@ -49,7 +29,7 @@ Supporting scripts and tools related to:
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 - Enterprise networking fundamentals  
 - Cisco IOS configuration  
 - Network segmentation & routing  
@@ -59,29 +39,9 @@ Supporting scripts and tools related to:
 
 ---
 
-## 🧪 Tools Used
-- Cisco Packet Tracer  
-- Linux (Pop!_OS / Ubuntu-based)  
-- Git & GitHub  
-- Command-line tools  
-
----
-
-## 🚀 Purpose & Direction
-This repository is actively growing and will expand to include:
-- More advanced routing and switching labs  
-- Security-focused scenarios  
-- Linux-based network monitoring projects  
-- Automation and scripting examples  
-
 Each lab is designed to mirror **real-world scenarios** encountered in IT, networking, and cybersecurity roles.
 
----
 
-## 📎 Notes
-- Labs are organized for clarity and scalability  
-- Documentation emphasizes **why** and **how**, not just commands  
-- This repo is intended for both learning and professional demonstration  
 
 ---
 
