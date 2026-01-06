@@ -36,13 +36,5 @@ Supporting scripts and tools related to:
 
 ---
 
-Each lab is designed to mirror **real-world scenarios** encountered in IT, networking, and cybersecurity roles.
-
-
-
----
-
-## 👤 Author
-**Ron Hughes**  
-Cybersecurity & Networking Enthusiast  
+Each lab is designed to mirror **real-world scenarios** encountered in IT, networking, and cybersecurity roles. 
 
