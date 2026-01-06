@@ -1,9 +1,6 @@
 # Cybersecurity & Networking Labs
 
-## 📌 Overview
 This repository contains **hands-on cybersecurity and networking labs** designed to demonstrate practical skills in enterprise networking, routing, switching, and security fundamentals.
-
-All labs are built with a **learn-by-doing approach** and documented to reflect real-world troubleshooting, configuration, and validation practices.
 
 The primary goal of this repository is to serve as:
 - A **portfolio of technical lab work**
