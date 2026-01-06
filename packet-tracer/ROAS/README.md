@@ -5,6 +5,9 @@ This lab demonstrates **Router-on-a-Stick (ROAS)** configuration to enable **int
 
 This lab was built and tested in **Cisco Packet Tracer** and focuses on foundational enterprise networking concepts.
 
+<img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/c8d6ed13-c7b5-4064-a2c7-09754f710075" />
+
+
 ---
 
 ## 🧠 Concepts Covered
@@ -32,3 +35,6 @@ Ability to implement inter-VLAN routing without Layer 3 switches
 Hands-on Cisco IOS configuration experience
 
 Enterprise networking fundamentals
+
+
+
